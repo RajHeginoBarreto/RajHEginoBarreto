@@ -1,4 +1,4 @@
-# Olá, eu sou o Raj Hegino Barreto 👋
+# Olá, eu sou o Raj Hegino Barreto 
 
 🎓 **Estudante de TI** | 💻 **Desenvolvedor em Formação** | 🚀 **Em busca de oportunidades em Programação**
 
