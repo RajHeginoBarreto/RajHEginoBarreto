@@ -9,7 +9,7 @@
 - 🎂 **Idade:** 17 anos
 - 🏫 **Formação Técnica:** Cursando o 2º ano do **Técnico em Informática para Internet** no **CEDUP Diomício Freitas**.
 - 🎓 **Especialização:** Aluno do programa **Jovem Programador** na **Faculdade SENAC**.
-- 💼 **Atuação Atual:** **Técnico de TI Autônomo** e **Jovem Aprendiz**.
+- 💼 **Atuação Atual: Orquestrador de Ia e automação Getel Tecnologia.
 - 🎯 **Objetivo:** Desenvolver projetos de impacto e conquistar a primeira oportunidade na área de desenvolvimento de software.
 
 ---
