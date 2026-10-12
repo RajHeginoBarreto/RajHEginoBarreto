@@ -9,7 +9,7 @@
 - 🎂 **Idade:** 17 anos
 - 🏫 **Formação Técnica:** Cursando o 2º ano do **Técnico em Informática para Internet** no **CEDUP Diomício Freitas**.
 - 🎓 **Especialização:** Aluno do programa **Jovem Programador** na **Faculdade SENAC**.
-- 💼 **Atuação Atual: Orquestrador de Ia e automação Getel Tecnologia.
+- 💼 **Atuação Atual:** Orquestrador de IA e automação na Getel Tecnologia.
 - 🎯 **Objetivo:** Desenvolver projetos de impacto e conquistar a primeira oportunidade na área de desenvolvimento de software.
 
 ---
@@ -22,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -35,20 +34,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 Inteligências Artificiais (IAs)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ### ☁️ Deploy & Ferramentas
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### 🤖 Hardware & IoT
+### 🔌 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-## 📌 Projeto em Destaque
-
-**Juliete Acabamentos** — landing page de revestimento de pedras naturais, com catálogo de 42 cores, comparador de antes e depois, orçamento pelo WhatsApp e painel administrativo (`/admin`) com login, banco de dados e upload de imagens.
-**Stack:** React 19, Vite, Tailwind CSS v4, Supabase (PostgreSQL + Auth + Storage) e Netlify.
 
 ---
 
